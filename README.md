@@ -1,0 +1,1 @@
+This is Ernestas first git project!
